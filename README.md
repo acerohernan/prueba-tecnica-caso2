@@ -45,13 +45,12 @@ Los tests creados se encuentran [aquí](https://github.com/acerohernan/prueba-tec
 
 1. Generación de lista de cantidades exactas (sin resto). 
 
-2. Generación de lista de cantidades inexactas (con resto). Método 'MoneyParts.GenerarListaDeCantidades'
+2. Generación de lista de cantidades inexactas (con resto).
 
 #### Método 'MoneyParts.Build'
 
 1. Entrada:"0.1" salida: [[0.05, 0.05],[0.1]]. 
 
-2. Entrada:"0.5" salida: [[0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,
-5.05], …… [0.1, 0.1, 0.1, 0.1, 0.1]]. Método 'MoneyParts.Build'
+2. Entrada:"0.5" salida: [[0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,5.05], …… [0.1, 0.1, 0.1, 0.1, 0.1]].
 
-3. Entrada:"10.50" salida: [[0.05, 0.05, …. 0.05], …… [10.0,0.5]]. Método 'MoneyParts.Build'
+3. Entrada:"10.50" salida: [[0.05, 0.05, …. 0.05], …… [10.0,0.5]].
